@@ -1,4 +1,4 @@
-baseURL = 'proyecto_hugo1/'
+baseURL = 'https://lsebag.github.io/proyecto_hugo1/'
 languageCode = 'en-us'
 title = 'Sitio web de Seba'
 

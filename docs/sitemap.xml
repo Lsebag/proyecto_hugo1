@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>proyecto_hugo1/js/react/index.html</loc>
+    <loc>https://lsebag.github.io/proyecto_hugo1/js/react/index.html</loc>
     <lastmod>2023-04-13T11:11:37+02:00</lastmod>
   </url>
   <url>
-    <loc>proyecto_hugo1/php/index.html</loc>
+    <loc>https://lsebag.github.io/proyecto_hugo1/php/index.html</loc>
     <lastmod>2023-04-13T11:08:02+02:00</lastmod>
   </url>
   <url>
-    <loc>proyecto_hugo1/js/vue/index.html</loc>
+    <loc>https://lsebag.github.io/proyecto_hugo1/js/vue/index.html</loc>
     <lastmod>2023-04-13T11:11:43+02:00</lastmod>
   </url>
   <url>
-    <loc>proyecto_hugo1/js/index.html</loc>
+    <loc>https://lsebag.github.io/proyecto_hugo1/js/index.html</loc>
     <lastmod>2023-04-13T11:11:31+02:00</lastmod>
   </url>
   <url>
-    <loc>proyecto_hugo1/php/instalacion/index.html</loc>
+    <loc>https://lsebag.github.io/proyecto_hugo1/php/instalacion/index.html</loc>
     <lastmod>2023-04-13T11:08:02+02:00</lastmod>
   </url>
   <url>
-    <loc>proyecto_hugo1/categories/index.html</loc>
+    <loc>https://lsebag.github.io/proyecto_hugo1/categories/index.html</loc>
   </url>
   <url>
-    <loc>proyecto_hugo1/tags/index.html</loc>
+    <loc>https://lsebag.github.io/proyecto_hugo1/tags/index.html</loc>
   </url>
 </urlset>

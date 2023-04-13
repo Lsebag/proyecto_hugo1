@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sitio web de Seba</title>
-    <link>proyecto_hugo1/categories/index.html</link>
+    <link>https://lsebag.github.io/proyecto_hugo1/categories/index.html</link>
     <description>Recent content in Categories on Sitio web de Seba</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="proyecto_hugo1/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://lsebag.github.io/proyecto_hugo1/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
