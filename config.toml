@@ -1,5 +1,5 @@
 baseURL = 'proyecto_hugo1'
 languageCode = 'es-ar'
-title = 'Sitio web Seba'
+title = 'Sitio web de Seba'
 
 theme= 'relearn2'
