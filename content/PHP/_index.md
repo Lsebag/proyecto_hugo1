@@ -1,8 +1,8 @@
-+++
-archetype = "chapter"
-title = "PHP"
-weight = 10
-+++
+---
+title: "PHP"
+date: 2023-04-13T11:58:17+02:00
+draft: false
+---
 
 # Contenido
 
