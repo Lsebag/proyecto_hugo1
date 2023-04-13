@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JS on Sitio web de Seba</title>
+    <link>proyecto_hugo1/js/index.html</link>
+    <description>Recent content in JS on Sitio web de Seba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2023 11:11:31 +0200</lastBuildDate><atom:link href="proyecto_hugo1/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React</title>
+      <link>proyecto_hugo1/js/react/index.html</link>
+      <pubDate>Thu, 13 Apr 2023 11:11:37 +0200</pubDate>
+      <guid>proyecto_hugo1/js/react/index.html</guid>
+      <description>Info sobre React</description>
+    </item>
+    <item>
+      <title>Vue</title>
+      <link>proyecto_hugo1/js/vue/index.html</link>
+      <pubDate>Thu, 13 Apr 2023 11:11:43 +0200</pubDate>
+      <guid>proyecto_hugo1/js/vue/index.html</guid>
+      <description>Info sobre Vue</description>
+    </item>
+  </channel>
+</rss>

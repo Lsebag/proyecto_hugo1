@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sitio web Seba</title>
+    <title>Sitio web de Seba</title>
     <link>proyecto_hugo1/index.html</link>
-    <description>Recent content on Sitio web Seba</description>
+    <description>Recent content on Sitio web de Seba</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ar</language><atom:link href="proyecto_hugo1/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2023 11:11:43 +0200</lastBuildDate><atom:link href="proyecto_hugo1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHP</title>
+      <link>proyecto_hugo1/php/index.html</link>
+      <pubDate>Thu, 13 Apr 2023 11:08:02 +0200</pubDate>
+      <guid>proyecto_hugo1/php/index.html</guid>
+      <description>Contenido There may be pirates Ahora vamos a ver temas sobre php
+VersionVersion actual 8.2 echo &amp;#34;esto es un código de php&amp;#34; Ir a la página de php </description>
+    </item>
+    <item>
+      <title>JS</title>
+      <link>proyecto_hugo1/js/index.html</link>
+      <pubDate>Thu, 13 Apr 2023 11:11:31 +0200</pubDate>
+      <guid>proyecto_hugo1/js/index.html</guid>
+      <description>Presentación Aquí vamos a ver temas sobre JavaScript</description>
+    </item>
   </channel>
 </rss>
