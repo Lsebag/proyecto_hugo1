@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'proyecto_hugo1'
 languageCode = 'es-ar'
 title = 'Sitio web Seba'
 
