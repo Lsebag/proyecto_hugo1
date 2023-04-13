@@ -1,6 +1,6 @@
 +++
 archetype = "home"
-title = ""
+title = "Home"
 +++
 
 {{% notice style="primary" title="Presentación" icon="skull-crossbones" %}}
