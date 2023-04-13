@@ -1,0 +1,5 @@
+baseURL = 'http://localhost/'
+languageCode = 'es-ar'
+title = 'Sitio web Seba'
+
+theme= 'relearn'
